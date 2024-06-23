@@ -1,4 +1,4 @@
-package com.laddu;
+
 
 import java.util.Scanner;
 
